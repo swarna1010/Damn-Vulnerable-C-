@@ -1,6 +1,6 @@
 Auth:
-  project_token: b5009f8c-7ec5-4895-a8c5-6e04455042c7
-  customer_token: df0d4185-7142-4ce1-999e-25eb8a76e80a
+  project_token: d2d23536-784b-4c5a-ae0d-c5a628795801
+  customer_token: 4b36ce06-05a1-43f9-a0e9-0c98a26594fa
 SAST:
   language: csharp
 # SCA:
